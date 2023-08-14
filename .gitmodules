@@ -1,0 +1,15 @@
+[submodule "Projects/KicksAndBricks"]
+	path = Projects/KicksAndBricks
+	url = https://github.com/GuppyForLife/KicksAndBricks
+[submodule "Projects/ExpressWebServer"]
+	path = Projects/ExpressWebServer
+	url = https://github.com/GuppyForLife/express-web-server
+[submodule "Projects/ReadListVertX"]
+	path = Projects/ReadListVertX
+	url = https://github.com/GuppyForLife/ReadingListVertX
+[submodule "Projects/PlanetFactsSite"]
+	path = Projects/PlanetFactsSite
+	url = https://github.com/GuppyForLife/PlanetFactsSite
+[submodule "Projects/SpongebobRecipeBook"]
+	path = Projects/SpongebobRecipeBook
+	url = https://github.com/GuppyForLife/SpongebobRecipeBook
