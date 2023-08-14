@@ -4,7 +4,7 @@
 
 Througout this past year, I had the priviledge to complete the Multiverse Apprentinceship with American Express. I've learned many different core competencies and valuable skills (technological and soft) that will contribute to my career going forward.
 
-This repository serves as a collection of some of key learnings and competencies during my 2022 - 2023 apprenticeship at American Express in partnership with sponsored by [Multiverse.io](https://www.multiverse.io/en-US).
+This repository serves as a collection of some of key learnings and competencies during my 2022 - 2023 apprenticeship at American Express in partnership with [Multiverse.io](https://www.multiverse.io/en-US).
 
 ## [Skills]
 A collection of technologies learned and core competencies showcased throughout the apprenticeship. Please note, these are simply highlights and does not encompass everything that was learned or showcased.
